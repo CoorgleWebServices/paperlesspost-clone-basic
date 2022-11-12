@@ -1,0 +1,10 @@
+export const DELETE_STICKER = "DELETE_STICKER";
+export const SET_BACKDROP = "SET_BACKDROP";
+export const SET_ENVELOPE = "SET_ENVELOPE";
+export const SET_HOVERED_ITEM_ID = "SET_HOVERED_ITEM_ID";
+export const SET_LINER = "SET_LINER";
+export const SET_SELECTED_ITEM_ID = "SET_SELECTED_ITEM_ID";
+export const SET_SELECTED_TOOL = "SET_SELECTED_TOOL";
+export const SET_STAMP = "SET_STAMP";
+export const SET_TARGET = "SET_TARGET";
+export const UPDATE_DESIGN = "UPDATE_DESIGN";
